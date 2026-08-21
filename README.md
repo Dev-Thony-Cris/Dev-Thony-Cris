@@ -31,11 +31,11 @@ ___
     style="padding:0 6"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img
+<!--<img
     align="left"
     width="42"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" 
-/>
+/>-->
 <img 
     align="left"
     width="42"
